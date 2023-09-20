@@ -1,4 +1,7 @@
 env = "dev"
+default_vpc_id = "vpc-02fd95dec0b93d08a"
+default_vpc_cidr = "172.31.0.0/16"
+default_vpc_rtid = "rtb-04788961f7eb75f09"
 
 vpc = {
   main = {
